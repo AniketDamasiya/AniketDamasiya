@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Damasiya</h1>
 <h3 align="center">A passionate it engineer student</h3>
-
+<img src="https://i.gifer.com/3AyY.gif" alt="Descriptive Text" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketdamasiya&label=Profile%20views&color=19bbbe&style=flat" alt="aniketdamasiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketdamasiya" alt="aniketdamasiya" /></a> </p>
